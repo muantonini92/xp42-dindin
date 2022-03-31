@@ -1,0 +1,41 @@
+main .container {
+    justify-content: space-around;
+
+}
+
+.lista-cursos {
+    display: flex;
+    justify-content: space-between;
+}
+
+.lista-cursos .curso {
+    width: 344px;
+    text-align: center;
+}
+
+.lista-cursos .curso img {
+    max-height: 270px;
+}
+
+.lista-cursos .curso h3 {
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 29px;
+    color: #FF4881;
+}
+
+.lista-cursos .curso p {
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 20px;
+    color: #0000;
+}
+
+.lista-cursos .curso a {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    color: white;
+    background: #FF4881;
+}
+
