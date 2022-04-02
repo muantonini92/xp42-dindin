@@ -302,6 +302,7 @@ main * {
     width: 289px;
     height: 51px;
     margin: auto;
+    padding: 0;
     border-radius: 62px;
     border: 2px solid #FF4081;
     font-family: 'Ubuntu';
