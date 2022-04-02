@@ -66,7 +66,7 @@ footer {
 footer h2 a {
     display: block;
     color: transparent;
-    background: url('../images/logo-footer.png');
+    background: url('../images/logo-footer.png') no-repeat;
     width: 312px;
     height: 102px;
 }
